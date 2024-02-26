@@ -2,7 +2,7 @@
 
 from : https://mp.weixin.qq.com/s/qp496PHNJd5K9NlZCOTWkg
 
-2024.02.06 @2 
+2024.02.26 @2 
 ```
 POST /init_ctl.cgi HTTP/1.1
 Host: 127.0.0.1
